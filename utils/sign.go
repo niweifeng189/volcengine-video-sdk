@@ -10,7 +10,7 @@ import (
     "strings"
     "time"
     
-    "volcengine-video-sdk/config"
+    "github.com/niweifeng189/volcengine-video-sdk/config"
 )
 
 // Sign 生成火山引擎API签名

@@ -3,9 +3,9 @@ package main
 import (
     "fmt"
     
-    "volcengine-video-sdk/api"
-    "volcengine-video-sdk/client"
-    "volcengine-video-sdk/config"
+    "github.com/niweifeng189/volcengine-video-sdk/api"
+    "github.com/niweifeng189/volcengine-video-sdk/client"
+    "github.com/niweifeng189/volcengine-video-sdk/config"
 )
 
 func main() {

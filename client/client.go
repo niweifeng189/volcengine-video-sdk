@@ -8,9 +8,9 @@ import (
     "net/url"
     "time"
     
-    "volcengine-video-sdk/api"
-    "volcengine-video-sdk/config"
-    "volcengine-video-sdk/utils"
+    "github.com/niweifeng189/volcengine-video-sdk/api"
+    "github.com/niweifeng189/volcengine-video-sdk/config"
+    "github.com/niweifeng189/volcengine-video-sdk/utils"
 )
 
 // VideoClient 火山引擎视频服务客户端
